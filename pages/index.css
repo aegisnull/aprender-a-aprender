@@ -65,3 +65,13 @@
 @import url(./__span-accent/two-columns__span-accent.css);
 @import url(./__iframe/video__iframe.css);
 @import url(./__iframes/video__iframes.css);
+@import url(./_content/footer__column_content.css);
+@import url(./_copyright/footer__column_content_copyright.css);
+@import url(./_about/footer__column_content_about.css);
+@import url(./_social/footer__column_content_social.css);
+@import url(./_footer/footer__place_footer.css);
+@import url(./_dark/section-subtitle_theme_dark.css);
+@import url(./_dark/section-title_theme_dark.css);
+@import url(./_dark/table__cell_theme_dark.css);
+@import url(_theme/table__heading_theme.css);
+@import url(./_dark/table_theme_dark.css);
