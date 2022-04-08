@@ -1,73 +1,78 @@
 /* section: footer */
 
 .footer {
-    background-color: #1f1f1f;
-    min-height: 350px;
-    color: white;
-    padding: 60px 0 40px;
-  }
-  
-  .footer__columns {
-    display: flex;
-    width: 90%;
-    padding: 60px;
-  }
-  
-  .footer__column_content_copyright {
-    flex-basis: 711px;
-    position: relative;
-  }
-  
-  .logo__place_footer {
-    height: 35px;
-    width: 183px;
-  }
-  
-  .footer__author {
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    left: 0;
-    bottom: 0;
-  }
-  
-  .footer__column_content_about {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .footer__column_content_social {
-    margin-bottom: 20px;
-  }
-  
-  .footer__column-heading {
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: bold;
-    margin: 0;
-    margin-bottom: 20px;
-  }
-  
-  .footer__list {
-    list-style-type: none;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    padding: 0;
-  }
-  
-  .footer__column-link {
-    list-style-type: none;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    padding: 0;
-    text-decoration: none;
-  }
-  
-  .footer__social-icons {
-    height: 16px;
-    width: 16px;
-    margin-right: 10px;
-  }
-  
+  background-color: #1f1f1f;
+  min-height: 350px;
+  color: white;
+  padding: 60px 0 40px;
+}
+
+.footer__columns {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+}
+
+.footer__column {
+  min-height: 252px;
+}
+
+.footer__column_content_copyright {
+  flex-basis: 711px;
+  position: relative;
+}
+
+.logo__place_footer {
+  height: 35px;
+  width: 183px;
+}
+
+.footer__author {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.footer__column_content_about {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer__column_content_social {
+  margin-bottom: 20px;
+}
+
+.footer__column-heading {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.footer__list {
+  list-style-type: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 0;
+}
+
+.footer__column-link {
+  list-style-type: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 0;
+  text-decoration: none;
+}
+
+.footer__social-icons {
+  height: 16px;
+  width: 16px;
+  margin-right: 10px;
+}
