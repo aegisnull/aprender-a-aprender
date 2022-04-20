@@ -1,7 +1,6 @@
 .page__link {
   transition: opacity 0.2s linear;
   text-decoration: none;
-  color: inherit;
 }
 
 .page__link:hover {
