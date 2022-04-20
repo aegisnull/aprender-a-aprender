@@ -1,9 +1,9 @@
-.page_link {
+.page__link {
   transition: opacity 0.2s linear;
   text-decoration: none;
   color: inherit;
 }
 
-.page_link:hover {
+.page__link:hover {
   opacity: 0.6;
 }
