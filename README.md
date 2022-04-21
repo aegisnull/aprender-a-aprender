@@ -1,4 +1,4 @@
-# web_project_2_es
+# web_project_1_es
 
 Este es un proyecto de prueba utilizando las tecnologías:
 
