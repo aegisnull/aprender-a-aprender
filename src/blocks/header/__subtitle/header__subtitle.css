@@ -2,9 +2,14 @@
   line-height: 25px;
   font-size: 18px;
   width: 388px;
-  position: absolute;
-  bottom: 30px;
-  left: 64px;
-  z-index: 4;
+  margin-left: 64px;
+  margin-bottom: 32px;
   font-weight: normal;
+}
+
+@media screen and (max-width: 460px) {
+  .header__subtitle {
+    width: 80%;
+    margin-left: 30px;
+  }
 }
