@@ -3,3 +3,13 @@
   width: 90%;
   padding: 60px;
 }
+
+@media screen and (max-width: 600px) {
+  .footer__columns {
+    flex-direction: column;
+    align-items: center;
+    width: 80 vw;
+    padding: 0;
+    margin: auto;
+  }
+}
