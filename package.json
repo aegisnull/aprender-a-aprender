@@ -7,7 +7,8 @@
     "build": "webpack --mode production",
     "dev": "webpack serve",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "format": "prettier --write 'src/**/*.{js,css}'"
   },
   "repository": {
     "type": "git",

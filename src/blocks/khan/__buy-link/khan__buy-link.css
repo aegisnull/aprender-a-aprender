@@ -1,11 +1,11 @@
 .khan__buy-link {
-  line-height: 42px;
-  font-size: 30px;
-  font-weight: normal;
-  text-decoration: none;
   color: #2f80ed;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 42px;
+  text-decoration: none;
 }
 
 .khan__buy-link::after {
-  content: " →";
+  content: ' →';
 }

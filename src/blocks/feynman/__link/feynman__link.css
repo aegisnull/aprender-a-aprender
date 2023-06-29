@@ -1,22 +1,22 @@
 .feynman__link {
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  text-decoration: none;
   position: absolute;
   top: 50%;
   right: 48px;
   color: #2f80ed;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 51px;
+  text-decoration: none;
 }
 
 .feynman__link::after {
-  content: " →";
+  content: ' →';
 }
 
 @media screen and (max-width: 650px) {
   .feynman__link {
+    margin: 50px 0 0;
     font-size: 24px;
     line-height: 32px;
-    margin: 50px 0 0;
   }
 }

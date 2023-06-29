@@ -1,9 +1,9 @@
 .resources__logo-zone {
   display: flex;
   flex-wrap: wrap;
-  margin: auto;
-  padding-bottom: 157px;
-  padding-top: 80px;
   gap: 50px;
   justify-content: center;
+  margin: auto;
+  padding-top: 80px;
+  padding-bottom: 157px;
 }

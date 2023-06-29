@@ -1,11 +1,11 @@
 .feynman__title {
-  font-size: 120px;
-  text-align: center;
+  position: relative;
   max-width: 775px;
   margin: auto;
   font-weight: bold;
+  font-size: 120px;
   line-height: 1.15;
-  position: relative;
+  text-align: center;
 }
 
 @media screen and (max-width: 650px) {
