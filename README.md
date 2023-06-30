@@ -1,6 +1,7 @@
 # Aprender a aprender
 
-This is the README file for the "Aprender a aprender" HTML project.
+![213898207-4f2fc689-80f5-486b-8856-06fe0803ce59](https://github.com/aegisnull/aprender-a-aprender/assets/27663011/c5e9f257-75f0-4b2e-9d53-74df9b206627)
+
 
 ## Description
 
